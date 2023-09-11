@@ -66,7 +66,7 @@ utility_component_template = {
 	ship_modifier = {
 		ship_disengage_opportunities_add = 1
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.9
+		ship_interstellar_speed_mult = -0.99
 	}
 
 	ai_weight = {
@@ -89,7 +89,7 @@ utility_component_template = {
 	ship_modifier = {
 		ship_disengage_opportunities_add = 1
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.9
+		ship_interstellar_speed_mult = -0.99
 	}
 
 	ai_weight = {
@@ -118,7 +118,7 @@ utility_component_template = {
 	ship_modifier = {
 		ship_disengage_opportunities_add = 1
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.8
+		ship_interstellar_speed_mult = -0.95
 	}
 
 	ai_weight = {
@@ -141,7 +141,7 @@ utility_component_template = {
 	ship_modifier = {
 		ship_disengage_opportunities_add = 1
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.8
+		ship_interstellar_speed_mult = -0.95
 	}
 
 	ai_weight = {
@@ -170,7 +170,7 @@ utility_component_template = {
 	ship_modifier = {
 		ship_disengage_opportunities_add = 1
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.75
+		ship_interstellar_speed_mult = -0.9
 	}
 
 	ai_weight = {
@@ -193,7 +193,7 @@ utility_component_template = {
 	ship_modifier = {
 		ship_disengage_opportunities_add = 1
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.75
+		ship_interstellar_speed_mult = -0.9
 	}
 
 	ai_weight = {
@@ -228,7 +228,7 @@ utility_component_template = {
 		ship_jumpdrive_cooldown_mult = -0.25
 		ship_ftl_jumpdrive_range_mult = -0.50
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.8
+		ship_interstellar_speed_mult = -0.9
 	}
 	prerequisites = { "tech_subspace_drive" }
 	ai_weight = {
@@ -255,7 +255,7 @@ utility_component_template = {
 	ship_modifier = {
 		ship_disengage_opportunities_add = 1
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.8
+		ship_interstellar_speed_mult = -0.9
 	}
 
 	ai_weight = {
@@ -287,7 +287,7 @@ utility_component_template = {
 		ship_disengage_opportunities_add = 2
 		ship_windup_mult = -0.9
 		ship_ftl_jumpdrive_range_mult = 0.50
-		ship_interstellar_speed_mult = -0.75
+		ship_interstellar_speed_mult = -0.9
 	}
 
 	ai_weight = {

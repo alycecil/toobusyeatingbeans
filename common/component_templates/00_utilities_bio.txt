@@ -11,7 +11,7 @@ utility_component_template = {
 
 	ship_modifier = {
 		ship_windup_mult = -0.9
-		ship_interstellar_speed_mult = -0.9
+		ship_interstellar_speed_mult = -0.99
 	}
 
 	component_set = "ftl_components"
@@ -53,7 +53,7 @@ utility_component_template = {
 
 	ship_modifier = {
 		ship_windup_mult = -0.8
-		ship_interstellar_speed_mult = -0.9
+		ship_interstellar_speed_mult = -0.99
 	}
 
 	component_set = "ftl_components"
